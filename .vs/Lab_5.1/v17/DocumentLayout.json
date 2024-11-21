@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D4D41F6-7464-450F-8C9C-E63E27B00BF9}|Lab_5.1\\Lab_5.1.vcxproj|C:\\Users\\Andrian\\source\\repos\\Lab_5.1\\Lab_5.1\\Lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0D4D41F6-7464-450F-8C9C-E63E27B00BF9}|Lab_5.1\\Lab_5.1.vcxproj|solutionrelative:Lab_5.1\\Lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17AD5C-297E-4BF1-9B58-1EB4AA134F85}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Andrian\\source\\repos\\Lab_5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C17AD5C-297E-4BF1-9B58-1EB4AA134F85}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Andrian\\source\\repos\\Lab_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Andrian\\source\\repos\\Lab_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T22:44:01.946Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Lab_5.1\\Lab_5.1.cpp",
               "ToolTip": "C:\\Users\\Andrian\\source\\repos\\Lab_5.1\\Lab_5.1\\Lab_5.1.cpp",
               "RelativeToolTip": "Lab_5.1\\Lab_5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-21T22:35:15.652Z",
               "EditorCaption": ""
